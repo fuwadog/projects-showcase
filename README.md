@@ -7,7 +7,7 @@
 ---
 
 ## 👋 About Us
-We enjoy building web and backend projects, exploring databases, and learning new technologies.
+> We’re college students still learning the ropes, so expect some chaos, broken code, and spaghetti code 🍝💻. Handle with care, laugh at our mistakes, and enjoy the journey!
 
 <table>
   <tr>
