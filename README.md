@@ -24,4 +24,9 @@
   </tr>
 </table>
 
-> “Code. Learn. Build. Repeat.” 
+> “Code. Learn. Build. Repeat.”
+
+### 🚀 Featured Projects
+
+[![Booking App](https://img.shields.io/badge/GitHub-Booking_App-blue?style=for-the-badge&logo=github)](https://github.com/noob-Vix/booking_app)
+
