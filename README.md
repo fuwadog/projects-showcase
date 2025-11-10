@@ -13,12 +13,12 @@
   <tr>
     <td align="center">
       <img src="https://github.com/fuwadog.png?size=80" width="80"/><br>
-      <b>fuwadog</b><br>
+      <b>Rhean</b><br>
        Full-stack
     </td>
     <td align="center">
       <img src="https://github.com/noob-vix.png?size=80" width="80"/><br>
-      <b>noo-vix</b><br>
+      <b>Mark</b><br>
       Backend 
     </td>
   </tr>
