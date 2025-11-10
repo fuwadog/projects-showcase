@@ -1,4 +1,4 @@
-# 🎨 Projects Showcase – fuwadog & noob-vix
+# 🎨 Projects Showcase – Rhean & Mark
 
 [![Repo Size](https://img.shields.io/github/repo-size/fuwadog/projects-showcase?style=flat-square)](https://github.com/fuwadog/projects-showcase)  [![Last Commit](https://img.shields.io/github/last-commit/fuwadog/projects-showcase?style=flat-square)](https://github.com/fuwadog/projects-showcase/commits/main)
 
