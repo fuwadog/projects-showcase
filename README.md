@@ -30,3 +30,7 @@
 
 [![Booking App](https://img.shields.io/badge/GitHub-Booking_App-blue?style=for-the-badge&logo=github)](https://github.com/noob-Vix/booking_app)
 
+[![AI Assistant CLI V2](https://img.shields.io/badge/GitHub-AI_Assistant_CLI_V2-blue?style=for-the-badge&logo=github)](https://github.com/fuwadog/ai_assist_V2)
+
+[![PatchPilot](https://img.shields.io/badge/GitHub-PatchPilot-blue?style=for-the-badge&logo=github)](https://github.com/fuwadog/patchpilot)
+
